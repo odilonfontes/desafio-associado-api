@@ -1,0 +1,12 @@
+[
+    {
+        "id": "1",
+        "cpf": "00123456789",
+        "situacaoParaVotar": "ABLE_TO_VOTE"
+    },
+    {
+        "id": "2",
+        "cpf": "00987654321",
+        "situacaoParaVotar": "UNABLE_TO_VOTE"
+    }
+]
