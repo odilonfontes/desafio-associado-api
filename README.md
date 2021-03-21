@@ -27,7 +27,7 @@ Para construir a aplicação
 Execute os comandos abaixo:
 
 	$ cd desafio-associado-api
-	$ mvn clean install -DskipTests
+	$ mvn clean install
 
 Para executar a aplicação
 ------------------------
@@ -35,7 +35,7 @@ Para executar a aplicação
 Execute os comandos abaixo:
 
 	$ cd desafio-associado-api
-	$ mvn spring-boot:run -Dspring-boot.run.profiles=dev
+	$ mvn spring-boot:run
 
 Documentação
 ------------------------
