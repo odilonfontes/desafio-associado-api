@@ -14,6 +14,7 @@ Funcionalidades
 ------------------------
 
 - Consultar associados
+- Consultar associado por CPF
 
 Demonstração
 ------------------------
@@ -40,4 +41,4 @@ Execute os comandos abaixo:
 Documentação
 ------------------------
 
-Swagger: <http://localhost:8080/swagger-ui/index.html>
+Swagger: <http://localhost:8081/swagger-ui/index.html>
